@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/adeshmishir/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0475-heaters](https://github.com/adeshmishir/leetcode-solutions/tree/master/0475-heaters) |
 | [0525-contiguous-array](https://github.com/adeshmishir/leetcode-solutions/tree/master/0525-contiguous-array) |
+| [0654-maximum-binary-tree](https://github.com/adeshmishir/leetcode-solutions/tree/master/0654-maximum-binary-tree) |
 ## Hash Table
 |  |
 | ------- |
@@ -33,4 +34,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0377-combination-sum-iv](https://github.com/adeshmishir/leetcode-solutions/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/adeshmishir/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0654-maximum-binary-tree](https://github.com/adeshmishir/leetcode-solutions/tree/master/0654-maximum-binary-tree) |
+## Stack
+|  |
+| ------- |
+| [0654-maximum-binary-tree](https://github.com/adeshmishir/leetcode-solutions/tree/master/0654-maximum-binary-tree) |
+## Tree
+|  |
+| ------- |
+| [0654-maximum-binary-tree](https://github.com/adeshmishir/leetcode-solutions/tree/master/0654-maximum-binary-tree) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0654-maximum-binary-tree](https://github.com/adeshmishir/leetcode-solutions/tree/master/0654-maximum-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0654-maximum-binary-tree](https://github.com/adeshmishir/leetcode-solutions/tree/master/0654-maximum-binary-tree) |
 <!---LeetCode Topics End-->
