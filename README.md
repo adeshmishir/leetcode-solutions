@@ -67,12 +67,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [1419-minimum-number-of-frogs-croaking](https://github.com/adeshmishir/leetcode-solutions/tree/master/1419-minimum-number-of-frogs-croaking) |
 | [1833-maximum-ice-cream-bars](https://github.com/adeshmishir/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 ## String
 |  |
 | ------- |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/adeshmishir/leetcode-solutions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/adeshmishir/leetcode-solutions/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
+| [1419-minimum-number-of-frogs-croaking](https://github.com/adeshmishir/leetcode-solutions/tree/master/1419-minimum-number-of-frogs-croaking) |
 ## Enumeration
 |  |
 | ------- |
