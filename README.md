@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/adeshmishir/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0475-heaters](https://github.com/adeshmishir/leetcode-solutions/tree/master/0475-heaters) |
 ## Binary Search
 |  |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/adeshmishir/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0377-combination-sum-iv](https://github.com/adeshmishir/leetcode-solutions/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/adeshmishir/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 ## Divide and Conquer
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/adeshmishir/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/adeshmishir/leetcode-solutions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/adeshmishir/leetcode-solutions/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1419-minimum-number-of-frogs-croaking](https://github.com/adeshmishir/leetcode-solutions/tree/master/1419-minimum-number-of-frogs-croaking) |
