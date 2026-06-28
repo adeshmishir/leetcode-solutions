@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1007-minimum-domino-rotations-for-equal-row](https://github.com/adeshmishir/leetcode-solutions/tree/master/1007-minimum-domino-rotations-for-equal-row) |
 | [1144-decrease-elements-to-make-array-zigzag](https://github.com/adeshmishir/leetcode-solutions/tree/master/1144-decrease-elements-to-make-array-zigzag) |
 | [1833-maximum-ice-cream-bars](https://github.com/adeshmishir/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/adeshmishir/leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/adeshmishir/leetcode-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Hash Table
 |  |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0475-heaters](https://github.com/adeshmishir/leetcode-solutions/tree/master/0475-heaters) |
 | [1833-maximum-ice-cream-bars](https://github.com/adeshmishir/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/adeshmishir/leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1007-minimum-domino-rotations-for-equal-row](https://github.com/adeshmishir/leetcode-solutions/tree/master/1007-minimum-domino-rotations-for-equal-row) |
 | [1144-decrease-elements-to-make-array-zigzag](https://github.com/adeshmishir/leetcode-solutions/tree/master/1144-decrease-elements-to-make-array-zigzag) |
 | [1833-maximum-ice-cream-bars](https://github.com/adeshmishir/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/adeshmishir/leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Counting Sort
 |  |
 | ------- |
