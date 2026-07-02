@@ -1,21 +1,19 @@
 class Solution {
+    bool solve(int i,int sum,vector<int>& nums,vector<vector<int>>&dp){
+        if(sum==0)return true;
+        if(i>=nums.size() || sum<0)return false;
+        if(dp[i][sum]!=-1)return dp[i][sum];
+        return dp[i][sum]= solve(i+1,sum,nums,dp)||solve(i+1,sum-nums[i],nums,dp);
+    }
 public:
     bool canPartition(vector<int>& nums) {
-        int n = nums.size();
-        int tsum=0;
-        for(int i=0;i<n;i++)tsum+=nums[i];
-        if(tsum&1)return false;
-        int sum=tsum/2;
-        vector<bool>dp(sum+1,false);
-        dp[0]=true;
-        for(int num:nums){
-            for(int s=sum;s>=num;s--){
-                dp[s]=dp[s]||dp[s-num];
-                if(dp[sum])return true;
-            }
-            
-        }
-        return dp[sum];
+        int n=  nums.size();
+        int sum=0;
+        for(int it:nums)sum+=it;
+        if(sum&1)return false;
+        sum=sum/2;
+        vector<vector<int>>dp(n+1,vector<int>(100*n+1,-1));
+       return solve(0,sum,nums,dp);
 
     }
 };
