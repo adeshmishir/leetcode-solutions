@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1144-decrease-elements-to-make-array-zigzag](https://github.com/adeshmishir/leetcode-solutions/tree/master/1144-decrease-elements-to-make-array-zigzag) |
 | [1833-maximum-ice-cream-bars](https://github.com/adeshmishir/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/adeshmishir/leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/adeshmishir/leetcode-solutions/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [3207-maximum-points-after-enemy-battles](https://github.com/adeshmishir/leetcode-solutions/tree/master/3207-maximum-points-after-enemy-battles) |
 ## Counting Sort
 |  |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/adeshmishir/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1419-minimum-number-of-frogs-croaking](https://github.com/adeshmishir/leetcode-solutions/tree/master/1419-minimum-number-of-frogs-croaking) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/adeshmishir/leetcode-solutions/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/adeshmishir/leetcode-solutions/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 ## Enumeration
 |  |
 | ------- |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/adeshmishir/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/adeshmishir/leetcode-solutions/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 ## Linked List
 |  |
 | ------- |
@@ -169,4 +172,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3175-find-the-first-player-to-win-k-games-in-a-row](https://github.com/adeshmishir/leetcode-solutions/tree/master/3175-find-the-first-player-to-win-k-games-in-a-row) |
+## Game Theory
+|  |
+| ------- |
+| [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/adeshmishir/leetcode-solutions/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 <!---LeetCode Topics End-->
