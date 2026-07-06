@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-next-greater-node-in-linked-list](https://github.com/adeshmishir/leetcode-solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1144-decrease-elements-to-make-array-zigzag](https://github.com/adeshmishir/leetcode-solutions/tree/master/1144-decrease-elements-to-make-array-zigzag) |
 | [1254-number-of-closed-islands](https://github.com/adeshmishir/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
+| [1288-remove-covered-intervals](https://github.com/adeshmishir/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1833-maximum-ice-cream-bars](https://github.com/adeshmishir/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/adeshmishir/leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/adeshmishir/leetcode-solutions/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0475-heaters](https://github.com/adeshmishir/leetcode-solutions/tree/master/0475-heaters) |
 | [0881-boats-to-save-people](https://github.com/adeshmishir/leetcode-solutions/tree/master/0881-boats-to-save-people) |
+| [1288-remove-covered-intervals](https://github.com/adeshmishir/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1833-maximum-ice-cream-bars](https://github.com/adeshmishir/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/adeshmishir/leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/adeshmishir/leetcode-solutions/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
