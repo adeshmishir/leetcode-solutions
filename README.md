@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/adeshmishir/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [1551-minimum-operations-to-make-array-equal](https://github.com/adeshmishir/leetcode-solutions/tree/master/1551-minimum-operations-to-make-array-equal) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/adeshmishir/leetcode-solutions/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 ## Linked List
 |  |
