@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/adeshmishir/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/adeshmishir/leetcode-solutions/tree/master/3620-network-recovery-pathways) |
 | [3951-minimum-energy-to-maintain-brightness](https://github.com/adeshmishir/leetcode-solutions/tree/master/3951-minimum-energy-to-maintain-brightness) |
+| [3952-maximum-total-value-of-covered-indices](https://github.com/adeshmishir/leetcode-solutions/tree/master/3952-maximum-total-value-of-covered-indices) |
 ## Hash Table
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/adeshmishir/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0740-delete-and-earn](https://github.com/adeshmishir/leetcode-solutions/tree/master/0740-delete-and-earn) |
 | [3620-network-recovery-pathways](https://github.com/adeshmishir/leetcode-solutions/tree/master/3620-network-recovery-pathways) |
+| [3952-maximum-total-value-of-covered-indices](https://github.com/adeshmishir/leetcode-solutions/tree/master/3952-maximum-total-value-of-covered-indices) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/adeshmishir/leetcode-solutions/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/adeshmishir/leetcode-solutions/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
 | [3207-maximum-points-after-enemy-battles](https://github.com/adeshmishir/leetcode-solutions/tree/master/3207-maximum-points-after-enemy-battles) |
+| [3952-maximum-total-value-of-covered-indices](https://github.com/adeshmishir/leetcode-solutions/tree/master/3952-maximum-total-value-of-covered-indices) |
 ## Counting Sort
 |  |
 | ------- |
@@ -132,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/adeshmishir/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/adeshmishir/leetcode-solutions/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/adeshmishir/leetcode-solutions/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
+| [3952-maximum-total-value-of-covered-indices](https://github.com/adeshmishir/leetcode-solutions/tree/master/3952-maximum-total-value-of-covered-indices) |
 ## Enumeration
 |  |
 | ------- |
