@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/adeshmishir/leetcode-solutions/tree/master/0525-contiguous-array) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/adeshmishir/leetcode-solutions/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/adeshmishir/leetcode-solutions/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/adeshmishir/leetcode-solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/adeshmishir/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/adeshmishir/leetcode-solutions/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/adeshmishir/leetcode-solutions/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/adeshmishir/leetcode-solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3952-maximum-total-value-of-covered-indices](https://github.com/adeshmishir/leetcode-solutions/tree/master/3952-maximum-total-value-of-covered-indices) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/adeshmishir/leetcode-solutions/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Enumeration
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/adeshmishir/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/adeshmishir/leetcode-solutions/tree/master/1551-minimum-operations-to-make-array-equal) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/adeshmishir/leetcode-solutions/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/adeshmishir/leetcode-solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Linked List
 |  |
 | ------- |
