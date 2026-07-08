@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/adeshmishir/leetcode-solutions/tree/master/0743-network-delay-time) |
 | [1034-coloring-a-border](https://github.com/adeshmishir/leetcode-solutions/tree/master/1034-coloring-a-border) |
 | [1254-number-of-closed-islands](https://github.com/adeshmishir/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/adeshmishir/leetcode-solutions/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/adeshmishir/leetcode-solutions/tree/master/0743-network-delay-time) |
 | [1034-coloring-a-border](https://github.com/adeshmishir/leetcode-solutions/tree/master/1034-coloring-a-border) |
 | [1254-number-of-closed-islands](https://github.com/adeshmishir/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/adeshmishir/leetcode-solutions/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/adeshmishir/leetcode-solutions/tree/master/0743-network-delay-time) |
 | [2285-maximum-total-importance-of-roads](https://github.com/adeshmishir/leetcode-solutions/tree/master/2285-maximum-total-importance-of-roads) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/adeshmishir/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/adeshmishir/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -200,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/adeshmishir/leetcode-solutions/tree/master/0743-network-delay-time) |
 | [1631-path-with-minimum-effort](https://github.com/adeshmishir/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [2285-maximum-total-importance-of-roads](https://github.com/adeshmishir/leetcode-solutions/tree/master/2285-maximum-total-importance-of-roads) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/adeshmishir/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -215,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/adeshmishir/leetcode-solutions/tree/master/0743-network-delay-time) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/adeshmishir/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/adeshmishir/leetcode-solutions/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
