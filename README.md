@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1144-decrease-elements-to-make-array-zigzag](https://github.com/adeshmishir/leetcode-solutions/tree/master/1144-decrease-elements-to-make-array-zigzag) |
 | [1254-number-of-closed-islands](https://github.com/adeshmishir/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1288-remove-covered-intervals](https://github.com/adeshmishir/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
+| [1631-path-with-minimum-effort](https://github.com/adeshmishir/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/adeshmishir/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1833-maximum-ice-cream-bars](https://github.com/adeshmishir/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/adeshmishir/leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0475-heaters](https://github.com/adeshmishir/leetcode-solutions/tree/master/0475-heaters) |
+| [1631-path-with-minimum-effort](https://github.com/adeshmishir/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/adeshmishir/leetcode-solutions/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/adeshmishir/leetcode-solutions/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
 | [3620-network-recovery-pathways](https://github.com/adeshmishir/leetcode-solutions/tree/master/3620-network-recovery-pathways) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1034-coloring-a-border](https://github.com/adeshmishir/leetcode-solutions/tree/master/1034-coloring-a-border) |
 | [1254-number-of-closed-islands](https://github.com/adeshmishir/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/adeshmishir/leetcode-solutions/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
+| [1631-path-with-minimum-effort](https://github.com/adeshmishir/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/adeshmishir/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Breadth-First Search
 |  |
@@ -184,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1034-coloring-a-border](https://github.com/adeshmishir/leetcode-solutions/tree/master/1034-coloring-a-border) |
 | [1254-number-of-closed-islands](https://github.com/adeshmishir/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/adeshmishir/leetcode-solutions/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
+| [1631-path-with-minimum-effort](https://github.com/adeshmishir/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/adeshmishir/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/adeshmishir/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Graph Theory
@@ -196,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1631-path-with-minimum-effort](https://github.com/adeshmishir/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [2285-maximum-total-importance-of-roads](https://github.com/adeshmishir/leetcode-solutions/tree/master/2285-maximum-total-importance-of-roads) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/adeshmishir/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/adeshmishir/leetcode-solutions/tree/master/3620-network-recovery-pathways) |
@@ -205,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/adeshmishir/leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [1034-coloring-a-border](https://github.com/adeshmishir/leetcode-solutions/tree/master/1034-coloring-a-border) |
 | [1254-number-of-closed-islands](https://github.com/adeshmishir/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
+| [1631-path-with-minimum-effort](https://github.com/adeshmishir/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/adeshmishir/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
 |  |
@@ -227,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/adeshmishir/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
+| [1631-path-with-minimum-effort](https://github.com/adeshmishir/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/adeshmishir/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Backtracking
 |  |
