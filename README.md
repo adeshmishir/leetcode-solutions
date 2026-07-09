@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0377-combination-sum-iv](https://github.com/adeshmishir/leetcode-solutions/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/adeshmishir/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0740-delete-and-earn](https://github.com/adeshmishir/leetcode-solutions/tree/master/0740-delete-and-earn) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/adeshmishir/leetcode-solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3620-network-recovery-pathways](https://github.com/adeshmishir/leetcode-solutions/tree/master/3620-network-recovery-pathways) |
 | [3952-maximum-total-value-of-covered-indices](https://github.com/adeshmishir/leetcode-solutions/tree/master/3952-maximum-total-value-of-covered-indices) |
 ## Divide and Conquer
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/adeshmishir/leetcode-solutions/tree/master/0743-network-delay-time) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/adeshmishir/leetcode-solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2285-maximum-total-importance-of-roads](https://github.com/adeshmishir/leetcode-solutions/tree/master/2285-maximum-total-importance-of-roads) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/adeshmishir/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/adeshmishir/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -220,11 +222,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/adeshmishir/leetcode-solutions/tree/master/0743-network-delay-time) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/adeshmishir/leetcode-solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/adeshmishir/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/adeshmishir/leetcode-solutions/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
 |  |
 | ------- |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/adeshmishir/leetcode-solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3620-network-recovery-pathways](https://github.com/adeshmishir/leetcode-solutions/tree/master/3620-network-recovery-pathways) |
 ## Simulation
 |  |
