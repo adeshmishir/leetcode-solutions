@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/adeshmishir/leetcode-solutions/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/adeshmishir/leetcode-solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2369-check-if-there-is-a-valid-partition-for-the-array](https://github.com/adeshmishir/leetcode-solutions/tree/master/2369-check-if-there-is-a-valid-partition-for-the-array) |
+| [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/adeshmishir/leetcode-solutions/tree/master/2998-minimum-number-of-operations-to-make-x-and-y-equal) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/adeshmishir/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/adeshmishir/leetcode-solutions/tree/master/3620-network-recovery-pathways) |
 | [3952-maximum-total-value-of-covered-indices](https://github.com/adeshmishir/leetcode-solutions/tree/master/3952-maximum-total-value-of-covered-indices) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/adeshmishir/leetcode-solutions/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1631-path-with-minimum-effort](https://github.com/adeshmishir/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/adeshmishir/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/adeshmishir/leetcode-solutions/tree/master/2998-minimum-number-of-operations-to-make-x-and-y-equal) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/adeshmishir/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Graph Theory
 |  |
@@ -264,4 +266,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/adeshmishir/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/adeshmishir/leetcode-solutions/tree/master/3955-valid-binary-strings-with-cost-limit) |
+## Memoization
+|  |
+| ------- |
+| [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/adeshmishir/leetcode-solutions/tree/master/2998-minimum-number-of-operations-to-make-x-and-y-equal) |
 <!---LeetCode Topics End-->
