@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3175-find-the-first-player-to-win-k-games-in-a-row](https://github.com/adeshmishir/leetcode-solutions/tree/master/3175-find-the-first-player-to-win-k-games-in-a-row) |
 | [3207-maximum-points-after-enemy-battles](https://github.com/adeshmishir/leetcode-solutions/tree/master/3207-maximum-points-after-enemy-battles) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/adeshmishir/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3393-count-paths-with-the-given-xor-value](https://github.com/adeshmishir/leetcode-solutions/tree/master/3393-count-paths-with-the-given-xor-value) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/adeshmishir/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/adeshmishir/leetcode-solutions/tree/master/3620-network-recovery-pathways) |
 | [3840-house-robber-v](https://github.com/adeshmishir/leetcode-solutions/tree/master/3840-house-robber-v) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2369-check-if-there-is-a-valid-partition-for-the-array](https://github.com/adeshmishir/leetcode-solutions/tree/master/2369-check-if-there-is-a-valid-partition-for-the-array) |
 | [2944-minimum-number-of-coins-for-fruits](https://github.com/adeshmishir/leetcode-solutions/tree/master/2944-minimum-number-of-coins-for-fruits) |
 | [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/adeshmishir/leetcode-solutions/tree/master/2998-minimum-number-of-operations-to-make-x-and-y-equal) |
+| [3393-count-paths-with-the-given-xor-value](https://github.com/adeshmishir/leetcode-solutions/tree/master/3393-count-paths-with-the-given-xor-value) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/adeshmishir/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/adeshmishir/leetcode-solutions/tree/master/3620-network-recovery-pathways) |
 | [3840-house-robber-v](https://github.com/adeshmishir/leetcode-solutions/tree/master/3840-house-robber-v) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/adeshmishir/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1631-path-with-minimum-effort](https://github.com/adeshmishir/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/adeshmishir/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3393-count-paths-with-the-given-xor-value](https://github.com/adeshmishir/leetcode-solutions/tree/master/3393-count-paths-with-the-given-xor-value) |
 ## Shortest Path
 |  |
 | ------- |
@@ -278,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [3393-count-paths-with-the-given-xor-value](https://github.com/adeshmishir/leetcode-solutions/tree/master/3393-count-paths-with-the-given-xor-value) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/adeshmishir/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/adeshmishir/leetcode-solutions/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Memoization
