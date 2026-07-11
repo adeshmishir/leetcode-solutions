@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2008-maximum-earnings-from-taxi](https://github.com/adeshmishir/leetcode-solutions/tree/master/2008-maximum-earnings-from-taxi) |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/adeshmishir/leetcode-solutions/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
 | [2369-check-if-there-is-a-valid-partition-for-the-array](https://github.com/adeshmishir/leetcode-solutions/tree/master/2369-check-if-there-is-a-valid-partition-for-the-array) |
+| [2944-minimum-number-of-coins-for-fruits](https://github.com/adeshmishir/leetcode-solutions/tree/master/2944-minimum-number-of-coins-for-fruits) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/adeshmishir/leetcode-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3175-find-the-first-player-to-win-k-games-in-a-row](https://github.com/adeshmishir/leetcode-solutions/tree/master/3175-find-the-first-player-to-win-k-games-in-a-row) |
 | [3207-maximum-points-after-enemy-battles](https://github.com/adeshmishir/leetcode-solutions/tree/master/3207-maximum-points-after-enemy-battles) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/adeshmishir/leetcode-solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2008-maximum-earnings-from-taxi](https://github.com/adeshmishir/leetcode-solutions/tree/master/2008-maximum-earnings-from-taxi) |
 | [2369-check-if-there-is-a-valid-partition-for-the-array](https://github.com/adeshmishir/leetcode-solutions/tree/master/2369-check-if-there-is-a-valid-partition-for-the-array) |
+| [2944-minimum-number-of-coins-for-fruits](https://github.com/adeshmishir/leetcode-solutions/tree/master/2944-minimum-number-of-coins-for-fruits) |
 | [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/adeshmishir/leetcode-solutions/tree/master/2998-minimum-number-of-operations-to-make-x-and-y-equal) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/adeshmishir/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/adeshmishir/leetcode-solutions/tree/master/3620-network-recovery-pathways) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/adeshmishir/leetcode-solutions/tree/master/0743-network-delay-time) |
 | [1631-path-with-minimum-effort](https://github.com/adeshmishir/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [2285-maximum-total-importance-of-roads](https://github.com/adeshmishir/leetcode-solutions/tree/master/2285-maximum-total-importance-of-roads) |
+| [2944-minimum-number-of-coins-for-fruits](https://github.com/adeshmishir/leetcode-solutions/tree/master/2944-minimum-number-of-coins-for-fruits) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/adeshmishir/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/adeshmishir/leetcode-solutions/tree/master/3620-network-recovery-pathways) |
 ## Matrix
@@ -281,4 +284,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/adeshmishir/leetcode-solutions/tree/master/2998-minimum-number-of-operations-to-make-x-and-y-equal) |
+## Queue
+|  |
+| ------- |
+| [2944-minimum-number-of-coins-for-fruits](https://github.com/adeshmishir/leetcode-solutions/tree/master/2944-minimum-number-of-coins-for-fruits) |
+## Monotonic Queue
+|  |
+| ------- |
+| [2944-minimum-number-of-coins-for-fruits](https://github.com/adeshmishir/leetcode-solutions/tree/master/2944-minimum-number-of-coins-for-fruits) |
 <!---LeetCode Topics End-->
