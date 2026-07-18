@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/adeshmishir/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1833-maximum-ice-cream-bars](https://github.com/adeshmishir/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/adeshmishir/leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/adeshmishir/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2008-maximum-earnings-from-taxi](https://github.com/adeshmishir/leetcode-solutions/tree/master/2008-maximum-earnings-from-taxi) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/adeshmishir/leetcode-solutions/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/adeshmishir/leetcode-solutions/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/adeshmishir/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/adeshmishir/leetcode-solutions/tree/master/1551-minimum-operations-to-make-array-equal) |
 | [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/adeshmishir/leetcode-solutions/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/adeshmishir/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/adeshmishir/leetcode-solutions/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/adeshmishir/leetcode-solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/adeshmishir/leetcode-solutions/tree/master/3857-minimum-cost-to-split-into-ones) |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/adeshmishir/leetcode-solutions/tree/master/0204-count-primes) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/adeshmishir/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Binary Indexed Tree
 |  |
 | ------- |
