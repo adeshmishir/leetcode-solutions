@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0726-number-of-atoms](https://github.com/adeshmishir/leetcode-solutions/tree/master/0726-number-of-atoms) |
 | [0856-score-of-parentheses](https://github.com/adeshmishir/leetcode-solutions/tree/master/0856-score-of-parentheses) |
 | [1019-next-greater-node-in-linked-list](https://github.com/adeshmishir/leetcode-solutions/tree/master/1019-next-greater-node-in-linked-list) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/adeshmishir/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/adeshmishir/leetcode-solutions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/adeshmishir/leetcode-solutions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Tree
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0654-maximum-binary-tree](https://github.com/adeshmishir/leetcode-solutions/tree/master/0654-maximum-binary-tree) |
 | [1019-next-greater-node-in-linked-list](https://github.com/adeshmishir/leetcode-solutions/tree/master/1019-next-greater-node-in-linked-list) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/adeshmishir/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Binary Tree
 |  |
 | ------- |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/adeshmishir/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0881-boats-to-save-people](https://github.com/adeshmishir/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [1007-minimum-domino-rotations-for-equal-row](https://github.com/adeshmishir/leetcode-solutions/tree/master/1007-minimum-domino-rotations-for-equal-row) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/adeshmishir/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1144-decrease-elements-to-make-array-zigzag](https://github.com/adeshmishir/leetcode-solutions/tree/master/1144-decrease-elements-to-make-array-zigzag) |
 | [1833-maximum-ice-cream-bars](https://github.com/adeshmishir/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/adeshmishir/leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -184,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/adeshmishir/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0726-number-of-atoms](https://github.com/adeshmishir/leetcode-solutions/tree/master/0726-number-of-atoms) |
 | [0856-score-of-parentheses](https://github.com/adeshmishir/leetcode-solutions/tree/master/0856-score-of-parentheses) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/adeshmishir/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1202-smallest-string-with-swaps](https://github.com/adeshmishir/leetcode-solutions/tree/master/1202-smallest-string-with-swaps) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/adeshmishir/leetcode-solutions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1234-replace-the-substring-for-balanced-string](https://github.com/adeshmishir/leetcode-solutions/tree/master/1234-replace-the-substring-for-balanced-string) |
