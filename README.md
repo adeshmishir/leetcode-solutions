@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/adeshmishir/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2008-maximum-earnings-from-taxi](https://github.com/adeshmishir/leetcode-solutions/tree/master/2008-maximum-earnings-from-taxi) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/adeshmishir/leetcode-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/adeshmishir/leetcode-solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/adeshmishir/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/adeshmishir/leetcode-solutions/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Prefix Sum
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/adeshmishir/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/adeshmishir/leetcode-solutions/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/adeshmishir/leetcode-solutions/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/adeshmishir/leetcode-solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/adeshmishir/leetcode-solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3952-maximum-total-value-of-covered-indices](https://github.com/adeshmishir/leetcode-solutions/tree/master/3952-maximum-total-value-of-covered-indices) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/adeshmishir/leetcode-solutions/tree/master/3955-valid-binary-strings-with-cost-limit) |
