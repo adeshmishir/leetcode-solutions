@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3952-maximum-total-value-of-covered-indices](https://github.com/adeshmishir/leetcode-solutions/tree/master/3952-maximum-total-value-of-covered-indices) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/adeshmishir/leetcode-solutions/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 | [3971-maximum-total-value](https://github.com/adeshmishir/leetcode-solutions/tree/master/3971-maximum-total-value) |
+| [3974-maximum-total-sum-of-k-selected-elements](https://github.com/adeshmishir/leetcode-solutions/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2285-maximum-total-importance-of-roads](https://github.com/adeshmishir/leetcode-solutions/tree/master/2285-maximum-total-importance-of-roads) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/adeshmishir/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3951-minimum-energy-to-maintain-brightness](https://github.com/adeshmishir/leetcode-solutions/tree/master/3951-minimum-energy-to-maintain-brightness) |
+| [3974-maximum-total-sum-of-k-selected-elements](https://github.com/adeshmishir/leetcode-solutions/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3638-maximum-balanced-shipments](https://github.com/adeshmishir/leetcode-solutions/tree/master/3638-maximum-balanced-shipments) |
 | [3952-maximum-total-value-of-covered-indices](https://github.com/adeshmishir/leetcode-solutions/tree/master/3952-maximum-total-value-of-covered-indices) |
 | [3971-maximum-total-value](https://github.com/adeshmishir/leetcode-solutions/tree/master/3971-maximum-total-value) |
+| [3974-maximum-total-sum-of-k-selected-elements](https://github.com/adeshmishir/leetcode-solutions/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Counting Sort
 |  |
 | ------- |
