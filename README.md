@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0449-serialize-and-deserialize-bst](https://github.com/adeshmishir/leetcode-solutions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0654-maximum-binary-tree](https://github.com/adeshmishir/leetcode-solutions/tree/master/0654-maximum-binary-tree) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/adeshmishir/leetcode-solutions/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 ## Monotonic Stack
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0449-serialize-and-deserialize-bst](https://github.com/adeshmishir/leetcode-solutions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0654-maximum-binary-tree](https://github.com/adeshmishir/leetcode-solutions/tree/master/0654-maximum-binary-tree) |
 ## Greedy
 |  |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/adeshmishir/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/adeshmishir/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0449-serialize-and-deserialize-bst](https://github.com/adeshmishir/leetcode-solutions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0726-number-of-atoms](https://github.com/adeshmishir/leetcode-solutions/tree/master/0726-number-of-atoms) |
 | [0856-score-of-parentheses](https://github.com/adeshmishir/leetcode-solutions/tree/master/0856-score-of-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/adeshmishir/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -284,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/adeshmishir/leetcode-solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/adeshmishir/leetcode-solutions/tree/master/0210-course-schedule-ii) |
+| [0449-serialize-and-deserialize-bst](https://github.com/adeshmishir/leetcode-solutions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0743-network-delay-time](https://github.com/adeshmishir/leetcode-solutions/tree/master/0743-network-delay-time) |
 | [0802-find-eventual-safe-states](https://github.com/adeshmishir/leetcode-solutions/tree/master/0802-find-eventual-safe-states) |
 | [1034-coloring-a-border](https://github.com/adeshmishir/leetcode-solutions/tree/master/1034-coloring-a-border) |
@@ -297,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/adeshmishir/leetcode-solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/adeshmishir/leetcode-solutions/tree/master/0210-course-schedule-ii) |
+| [0449-serialize-and-deserialize-bst](https://github.com/adeshmishir/leetcode-solutions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0743-network-delay-time](https://github.com/adeshmishir/leetcode-solutions/tree/master/0743-network-delay-time) |
 | [0802-find-eventual-safe-states](https://github.com/adeshmishir/leetcode-solutions/tree/master/0802-find-eventual-safe-states) |
 | [1034-coloring-a-border](https://github.com/adeshmishir/leetcode-solutions/tree/master/1034-coloring-a-border) |
@@ -425,4 +430,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/adeshmishir/leetcode-solutions/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
+## Design
+|  |
+| ------- |
+| [0449-serialize-and-deserialize-bst](https://github.com/adeshmishir/leetcode-solutions/tree/master/0449-serialize-and-deserialize-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0449-serialize-and-deserialize-bst](https://github.com/adeshmishir/leetcode-solutions/tree/master/0449-serialize-and-deserialize-bst) |
 <!---LeetCode Topics End-->
