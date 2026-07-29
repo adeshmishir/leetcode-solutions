@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/adeshmishir/leetcode-solutions/tree/master/0100-same-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/adeshmishir/leetcode-solutions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0654-maximum-binary-tree](https://github.com/adeshmishir/leetcode-solutions/tree/master/0654-maximum-binary-tree) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/adeshmishir/leetcode-solutions/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/adeshmishir/leetcode-solutions/tree/master/0100-same-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/adeshmishir/leetcode-solutions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0654-maximum-binary-tree](https://github.com/adeshmishir/leetcode-solutions/tree/master/0654-maximum-binary-tree) |
 ## Greedy
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/adeshmishir/leetcode-solutions/tree/master/0100-same-tree) |
 | [0207-course-schedule](https://github.com/adeshmishir/leetcode-solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/adeshmishir/leetcode-solutions/tree/master/0210-course-schedule-ii) |
 | [0449-serialize-and-deserialize-bst](https://github.com/adeshmishir/leetcode-solutions/tree/master/0449-serialize-and-deserialize-bst) |
@@ -299,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/adeshmishir/leetcode-solutions/tree/master/0100-same-tree) |
 | [0207-course-schedule](https://github.com/adeshmishir/leetcode-solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/adeshmishir/leetcode-solutions/tree/master/0210-course-schedule-ii) |
 | [0449-serialize-and-deserialize-bst](https://github.com/adeshmishir/leetcode-solutions/tree/master/0449-serialize-and-deserialize-bst) |
