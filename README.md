@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/adeshmishir/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0032-longest-valid-parentheses](https://github.com/adeshmishir/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0063-unique-paths-ii](https://github.com/adeshmishir/leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/adeshmishir/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adeshmishir/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/adeshmishir/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0654-maximum-binary-tree](https://github.com/adeshmishir/leetcode-solutions/tree/master/0654-maximum-binary-tree) |
 | [0726-number-of-atoms](https://github.com/adeshmishir/leetcode-solutions/tree/master/0726-number-of-atoms) |
 | [0856-score-of-parentheses](https://github.com/adeshmishir/leetcode-solutions/tree/master/0856-score-of-parentheses) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/adeshmishir/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/adeshmishir/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0032-longest-valid-parentheses](https://github.com/adeshmishir/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0449-serialize-and-deserialize-bst](https://github.com/adeshmishir/leetcode-solutions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0726-number-of-atoms](https://github.com/adeshmishir/leetcode-solutions/tree/master/0726-number-of-atoms) |
 | [0763-partition-labels](https://github.com/adeshmishir/leetcode-solutions/tree/master/0763-partition-labels) |
