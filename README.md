@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/adeshmishir/leetcode-solutions/tree/master/0654-maximum-binary-tree) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/adeshmishir/leetcode-solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0740-delete-and-earn](https://github.com/adeshmishir/leetcode-solutions/tree/master/0740-delete-and-earn) |
+| [0857-minimum-cost-to-hire-k-workers](https://github.com/adeshmishir/leetcode-solutions/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0881-boats-to-save-people](https://github.com/adeshmishir/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [1007-minimum-domino-rotations-for-equal-row](https://github.com/adeshmishir/leetcode-solutions/tree/master/1007-minimum-domino-rotations-for-equal-row) |
 | [1014-best-sightseeing-pair](https://github.com/adeshmishir/leetcode-solutions/tree/master/1014-best-sightseeing-pair) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0475-heaters](https://github.com/adeshmishir/leetcode-solutions/tree/master/0475-heaters) |
 | [0726-number-of-atoms](https://github.com/adeshmishir/leetcode-solutions/tree/master/0726-number-of-atoms) |
+| [0857-minimum-cost-to-hire-k-workers](https://github.com/adeshmishir/leetcode-solutions/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0881-boats-to-save-people](https://github.com/adeshmishir/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [1202-smallest-string-with-swaps](https://github.com/adeshmishir/leetcode-solutions/tree/master/1202-smallest-string-with-swaps) |
 | [1288-remove-covered-intervals](https://github.com/adeshmishir/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/adeshmishir/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0763-partition-labels](https://github.com/adeshmishir/leetcode-solutions/tree/master/0763-partition-labels) |
+| [0857-minimum-cost-to-hire-k-workers](https://github.com/adeshmishir/leetcode-solutions/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0881-boats-to-save-people](https://github.com/adeshmishir/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [1007-minimum-domino-rotations-for-equal-row](https://github.com/adeshmishir/leetcode-solutions/tree/master/1007-minimum-domino-rotations-for-equal-row) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/adeshmishir/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -360,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/adeshmishir/leetcode-solutions/tree/master/0743-network-delay-time) |
+| [0857-minimum-cost-to-hire-k-workers](https://github.com/adeshmishir/leetcode-solutions/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/adeshmishir/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/adeshmishir/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [2285-maximum-total-importance-of-roads](https://github.com/adeshmishir/leetcode-solutions/tree/master/2285-maximum-total-importance-of-roads) |
