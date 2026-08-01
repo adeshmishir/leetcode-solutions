@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/adeshmishir/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/adeshmishir/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0475-heaters](https://github.com/adeshmishir/leetcode-solutions/tree/master/0475-heaters) |
+| [0486-predict-the-winner](https://github.com/adeshmishir/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0525-contiguous-array](https://github.com/adeshmishir/leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0654-maximum-binary-tree](https://github.com/adeshmishir/leetcode-solutions/tree/master/0654-maximum-binary-tree) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/adeshmishir/leetcode-solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/adeshmishir/leetcode-solutions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0377-combination-sum-iv](https://github.com/adeshmishir/leetcode-solutions/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/adeshmishir/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0486-predict-the-winner](https://github.com/adeshmishir/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/adeshmishir/leetcode-solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0740-delete-and-earn](https://github.com/adeshmishir/leetcode-solutions/tree/master/0740-delete-and-earn) |
 | [1014-best-sightseeing-pair](https://github.com/adeshmishir/leetcode-solutions/tree/master/1014-best-sightseeing-pair) |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/adeshmishir/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/adeshmishir/leetcode-solutions/tree/master/0204-count-primes) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/adeshmishir/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0486-predict-the-winner](https://github.com/adeshmishir/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/adeshmishir/leetcode-solutions/tree/master/1551-minimum-operations-to-make-array-equal) |
 | [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/adeshmishir/leetcode-solutions/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/adeshmishir/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -406,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/adeshmishir/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/adeshmishir/leetcode-solutions/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 ## Union-Find
 |  |
@@ -471,4 +475,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0449-serialize-and-deserialize-bst](https://github.com/adeshmishir/leetcode-solutions/tree/master/0449-serialize-and-deserialize-bst) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/adeshmishir/leetcode-solutions/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
