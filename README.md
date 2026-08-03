@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1202-smallest-string-with-swaps](https://github.com/adeshmishir/leetcode-solutions/tree/master/1202-smallest-string-with-swaps) |
 | [1254-number-of-closed-islands](https://github.com/adeshmishir/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1288-remove-covered-intervals](https://github.com/adeshmishir/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
+| [1406-stone-game-iii](https://github.com/adeshmishir/leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1463-cherry-pickup-ii](https://github.com/adeshmishir/leetcode-solutions/tree/master/1463-cherry-pickup-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/adeshmishir/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/adeshmishir/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/adeshmishir/leetcode-solutions/tree/master/0740-delete-and-earn) |
 | [0877-stone-game](https://github.com/adeshmishir/leetcode-solutions/tree/master/0877-stone-game) |
 | [1014-best-sightseeing-pair](https://github.com/adeshmishir/leetcode-solutions/tree/master/1014-best-sightseeing-pair) |
+| [1406-stone-game-iii](https://github.com/adeshmishir/leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1463-cherry-pickup-ii](https://github.com/adeshmishir/leetcode-solutions/tree/master/1463-cherry-pickup-ii) |
 | [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/adeshmishir/leetcode-solutions/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/adeshmishir/leetcode-solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/adeshmishir/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/adeshmishir/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/adeshmishir/leetcode-solutions/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/adeshmishir/leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/adeshmishir/leetcode-solutions/tree/master/1551-minimum-operations-to-make-array-equal) |
 | [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/adeshmishir/leetcode-solutions/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/adeshmishir/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -421,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/adeshmishir/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/adeshmishir/leetcode-solutions/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/adeshmishir/leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/adeshmishir/leetcode-solutions/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 ## Union-Find
 |  |
@@ -490,4 +494,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/adeshmishir/leetcode-solutions/tree/master/0486-predict-the-winner) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/adeshmishir/leetcode-solutions/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/adeshmishir/leetcode-solutions/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
