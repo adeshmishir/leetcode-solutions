@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/adeshmishir/leetcode-solutions/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
 | [2285-maximum-total-importance-of-roads](https://github.com/adeshmishir/leetcode-solutions/tree/master/2285-maximum-total-importance-of-roads) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/adeshmishir/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/adeshmishir/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/adeshmishir/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3951-minimum-energy-to-maintain-brightness](https://github.com/adeshmishir/leetcode-solutions/tree/master/3951-minimum-energy-to-maintain-brightness) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/adeshmishir/leetcode-solutions/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1419-minimum-number-of-frogs-croaking](https://github.com/adeshmishir/leetcode-solutions/tree/master/1419-minimum-number-of-frogs-croaking) |
 | [1833-maximum-ice-cream-bars](https://github.com/adeshmishir/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/adeshmishir/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/adeshmishir/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/adeshmishir/leetcode-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3968-maximum-manhattan-distance-after-all-moves](https://github.com/adeshmishir/leetcode-solutions/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 ## String
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/adeshmishir/leetcode-solutions/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/adeshmishir/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/adeshmishir/leetcode-solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/adeshmishir/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/adeshmishir/leetcode-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/adeshmishir/leetcode-solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3952-maximum-total-value-of-covered-indices](https://github.com/adeshmishir/leetcode-solutions/tree/master/3952-maximum-total-value-of-covered-indices) |
