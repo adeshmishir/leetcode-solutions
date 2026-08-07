@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2285-maximum-total-importance-of-roads](https://github.com/adeshmishir/leetcode-solutions/tree/master/2285-maximum-total-importance-of-roads) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/adeshmishir/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3207-maximum-points-after-enemy-battles](https://github.com/adeshmishir/leetcode-solutions/tree/master/3207-maximum-points-after-enemy-battles) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/adeshmishir/leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/adeshmishir/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3638-maximum-balanced-shipments](https://github.com/adeshmishir/leetcode-solutions/tree/master/3638-maximum-balanced-shipments) |
 | [3952-maximum-total-value-of-covered-indices](https://github.com/adeshmishir/leetcode-solutions/tree/master/3952-maximum-total-value-of-covered-indices) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/adeshmishir/leetcode-solutions/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/adeshmishir/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/adeshmishir/leetcode-solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/adeshmishir/leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/adeshmishir/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/adeshmishir/leetcode-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/adeshmishir/leetcode-solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/adeshmishir/leetcode-solutions/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/adeshmishir/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/adeshmishir/leetcode-solutions/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/adeshmishir/leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/adeshmishir/leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/adeshmishir/leetcode-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/adeshmishir/leetcode-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -445,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/adeshmishir/leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/adeshmishir/leetcode-solutions/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Bit Manipulation
 |  |
@@ -474,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/adeshmishir/leetcode-solutions/tree/master/0204-count-primes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/adeshmishir/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/adeshmishir/leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Binary Indexed Tree
 |  |
 | ------- |
