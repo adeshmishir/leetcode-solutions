@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0475-heaters](https://github.com/adeshmishir/leetcode-solutions/tree/master/0475-heaters) |
 | [0763-partition-labels](https://github.com/adeshmishir/leetcode-solutions/tree/master/0763-partition-labels) |
 | [0881-boats-to-save-people](https://github.com/adeshmishir/leetcode-solutions/tree/master/0881-boats-to-save-people) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/adeshmishir/leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/adeshmishir/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Binary Search
 |  |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2369-check-if-there-is-a-valid-partition-for-the-array](https://github.com/adeshmishir/leetcode-solutions/tree/master/2369-check-if-there-is-a-valid-partition-for-the-array) |
 | [2944-minimum-number-of-coins-for-fruits](https://github.com/adeshmishir/leetcode-solutions/tree/master/2944-minimum-number-of-coins-for-fruits) |
 | [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/adeshmishir/leetcode-solutions/tree/master/2998-minimum-number-of-operations-to-make-x-and-y-equal) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/adeshmishir/leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3393-count-paths-with-the-given-xor-value](https://github.com/adeshmishir/leetcode-solutions/tree/master/3393-count-paths-with-the-given-xor-value) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/adeshmishir/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3592-inverse-coin-change](https://github.com/adeshmishir/leetcode-solutions/tree/master/3592-inverse-coin-change) |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2285-maximum-total-importance-of-roads](https://github.com/adeshmishir/leetcode-solutions/tree/master/2285-maximum-total-importance-of-roads) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/adeshmishir/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3207-maximum-points-after-enemy-battles](https://github.com/adeshmishir/leetcode-solutions/tree/master/3207-maximum-points-after-enemy-battles) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/adeshmishir/leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/adeshmishir/leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/adeshmishir/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3638-maximum-balanced-shipments](https://github.com/adeshmishir/leetcode-solutions/tree/master/3638-maximum-balanced-shipments) |
@@ -276,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/adeshmishir/leetcode-solutions/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/adeshmishir/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/adeshmishir/leetcode-solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/adeshmishir/leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/adeshmishir/leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/adeshmishir/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/adeshmishir/leetcode-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
