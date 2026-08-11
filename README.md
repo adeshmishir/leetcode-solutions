@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adeshmishir/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/adeshmishir/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/adeshmishir/leetcode-solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0139-word-break](https://github.com/adeshmishir/leetcode-solutions/tree/master/0139-word-break) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/adeshmishir/leetcode-solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0204-count-primes](https://github.com/adeshmishir/leetcode-solutions/tree/master/0204-count-primes) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/adeshmishir/leetcode-solutions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/adeshmishir/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0139-word-break](https://github.com/adeshmishir/leetcode-solutions/tree/master/0139-word-break) |
 | [0525-contiguous-array](https://github.com/adeshmishir/leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0726-number-of-atoms](https://github.com/adeshmishir/leetcode-solutions/tree/master/0726-number-of-atoms) |
 | [0740-delete-and-earn](https://github.com/adeshmishir/leetcode-solutions/tree/master/0740-delete-and-earn) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adeshmishir/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/adeshmishir/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/adeshmishir/leetcode-solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0139-word-break](https://github.com/adeshmishir/leetcode-solutions/tree/master/0139-word-break) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/adeshmishir/leetcode-solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/adeshmishir/leetcode-solutions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0377-combination-sum-iv](https://github.com/adeshmishir/leetcode-solutions/tree/master/0377-combination-sum-iv) |
@@ -265,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/adeshmishir/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/adeshmishir/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/adeshmishir/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
+| [0139-word-break](https://github.com/adeshmishir/leetcode-solutions/tree/master/0139-word-break) |
 | [0449-serialize-and-deserialize-bst](https://github.com/adeshmishir/leetcode-solutions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0514-freedom-trail](https://github.com/adeshmishir/leetcode-solutions/tree/master/0514-freedom-trail) |
 | [0726-number-of-atoms](https://github.com/adeshmishir/leetcode-solutions/tree/master/0726-number-of-atoms) |
@@ -475,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/adeshmishir/leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/adeshmishir/leetcode-solutions/tree/master/0139-word-break) |
 | [0546-remove-boxes](https://github.com/adeshmishir/leetcode-solutions/tree/master/0546-remove-boxes) |
 | [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/adeshmishir/leetcode-solutions/tree/master/2998-minimum-number-of-operations-to-make-x-and-y-equal) |
 ## Queue
@@ -542,4 +547,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/adeshmishir/leetcode-solutions/tree/master/1510-stone-game-iv) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/adeshmishir/leetcode-solutions/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/adeshmishir/leetcode-solutions/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
