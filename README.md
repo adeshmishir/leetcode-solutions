@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/adeshmishir/leetcode-solutions/tree/master/0100-same-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/adeshmishir/leetcode-solutions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0654-maximum-binary-tree](https://github.com/adeshmishir/leetcode-solutions/tree/master/0654-maximum-binary-tree) |
+| [0655-print-binary-tree](https://github.com/adeshmishir/leetcode-solutions/tree/master/0655-print-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/adeshmishir/leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/adeshmishir/leetcode-solutions/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 ## Monotonic Stack
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/adeshmishir/leetcode-solutions/tree/master/0100-same-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/adeshmishir/leetcode-solutions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0654-maximum-binary-tree](https://github.com/adeshmishir/leetcode-solutions/tree/master/0654-maximum-binary-tree) |
+| [0655-print-binary-tree](https://github.com/adeshmishir/leetcode-solutions/tree/master/0655-print-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/adeshmishir/leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
 ## Greedy
 |  |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/adeshmishir/leetcode-solutions/tree/master/0210-course-schedule-ii) |
 | [0449-serialize-and-deserialize-bst](https://github.com/adeshmishir/leetcode-solutions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0514-freedom-trail](https://github.com/adeshmishir/leetcode-solutions/tree/master/0514-freedom-trail) |
+| [0655-print-binary-tree](https://github.com/adeshmishir/leetcode-solutions/tree/master/0655-print-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/adeshmishir/leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0743-network-delay-time](https://github.com/adeshmishir/leetcode-solutions/tree/master/0743-network-delay-time) |
 | [0802-find-eventual-safe-states](https://github.com/adeshmishir/leetcode-solutions/tree/master/0802-find-eventual-safe-states) |
@@ -369,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/adeshmishir/leetcode-solutions/tree/master/0210-course-schedule-ii) |
 | [0449-serialize-and-deserialize-bst](https://github.com/adeshmishir/leetcode-solutions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0514-freedom-trail](https://github.com/adeshmishir/leetcode-solutions/tree/master/0514-freedom-trail) |
+| [0655-print-binary-tree](https://github.com/adeshmishir/leetcode-solutions/tree/master/0655-print-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/adeshmishir/leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0743-network-delay-time](https://github.com/adeshmishir/leetcode-solutions/tree/master/0743-network-delay-time) |
 | [0802-find-eventual-safe-states](https://github.com/adeshmishir/leetcode-solutions/tree/master/0802-find-eventual-safe-states) |
