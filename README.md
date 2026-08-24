@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/adeshmishir/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/adeshmishir/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0139-word-break](https://github.com/adeshmishir/leetcode-solutions/tree/master/0139-word-break) |
 | [0525-contiguous-array](https://github.com/adeshmishir/leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0726-number-of-atoms](https://github.com/adeshmishir/leetcode-solutions/tree/master/0726-number-of-atoms) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/adeshmishir/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/adeshmishir/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/adeshmishir/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
+| [0076-minimum-window-substring](https://github.com/adeshmishir/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0139-word-break](https://github.com/adeshmishir/leetcode-solutions/tree/master/0139-word-break) |
 | [0449-serialize-and-deserialize-bst](https://github.com/adeshmishir/leetcode-solutions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0514-freedom-trail](https://github.com/adeshmishir/leetcode-solutions/tree/master/0514-freedom-trail) |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/adeshmishir/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/adeshmishir/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/adeshmishir/leetcode-solutions/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1234-replace-the-substring-for-balanced-string](https://github.com/adeshmishir/leetcode-solutions/tree/master/1234-replace-the-substring-for-balanced-string) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/adeshmishir/leetcode-solutions/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
