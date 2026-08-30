@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-best-sightseeing-pair](https://github.com/adeshmishir/leetcode-solutions/tree/master/1014-best-sightseeing-pair) |
 | [1019-next-greater-node-in-linked-list](https://github.com/adeshmishir/leetcode-solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1034-coloring-a-border](https://github.com/adeshmishir/leetcode-solutions/tree/master/1034-coloring-a-border) |
+| [1048-longest-string-chain](https://github.com/adeshmishir/leetcode-solutions/tree/master/1048-longest-string-chain) |
 | [1140-stone-game-ii](https://github.com/adeshmishir/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1144-decrease-elements-to-make-array-zigzag](https://github.com/adeshmishir/leetcode-solutions/tree/master/1144-decrease-elements-to-make-array-zigzag) |
 | [1202-smallest-string-with-swaps](https://github.com/adeshmishir/leetcode-solutions/tree/master/1202-smallest-string-with-swaps) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/adeshmishir/leetcode-solutions/tree/master/0740-delete-and-earn) |
 | [0763-partition-labels](https://github.com/adeshmishir/leetcode-solutions/tree/master/0763-partition-labels) |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/adeshmishir/leetcode-solutions/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
+| [1048-longest-string-chain](https://github.com/adeshmishir/leetcode-solutions/tree/master/1048-longest-string-chain) |
 | [1202-smallest-string-with-swaps](https://github.com/adeshmishir/leetcode-solutions/tree/master/1202-smallest-string-with-swaps) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/adeshmishir/leetcode-solutions/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/adeshmishir/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0475-heaters](https://github.com/adeshmishir/leetcode-solutions/tree/master/0475-heaters) |
 | [0763-partition-labels](https://github.com/adeshmishir/leetcode-solutions/tree/master/0763-partition-labels) |
 | [0881-boats-to-save-people](https://github.com/adeshmishir/leetcode-solutions/tree/master/0881-boats-to-save-people) |
+| [1048-longest-string-chain](https://github.com/adeshmishir/leetcode-solutions/tree/master/1048-longest-string-chain) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/adeshmishir/leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/adeshmishir/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/adeshmishir/leetcode-solutions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -151,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0726-number-of-atoms](https://github.com/adeshmishir/leetcode-solutions/tree/master/0726-number-of-atoms) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/adeshmishir/leetcode-solutions/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0881-boats-to-save-people](https://github.com/adeshmishir/leetcode-solutions/tree/master/0881-boats-to-save-people) |
+| [1048-longest-string-chain](https://github.com/adeshmishir/leetcode-solutions/tree/master/1048-longest-string-chain) |
 | [1202-smallest-string-with-swaps](https://github.com/adeshmishir/leetcode-solutions/tree/master/1202-smallest-string-with-swaps) |
 | [1288-remove-covered-intervals](https://github.com/adeshmishir/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/adeshmishir/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -189,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/adeshmishir/leetcode-solutions/tree/master/0740-delete-and-earn) |
 | [0877-stone-game](https://github.com/adeshmishir/leetcode-solutions/tree/master/0877-stone-game) |
 | [1014-best-sightseeing-pair](https://github.com/adeshmishir/leetcode-solutions/tree/master/1014-best-sightseeing-pair) |
+| [1048-longest-string-chain](https://github.com/adeshmishir/leetcode-solutions/tree/master/1048-longest-string-chain) |
 | [1140-stone-game-ii](https://github.com/adeshmishir/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/adeshmishir/leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1463-cherry-pickup-ii](https://github.com/adeshmishir/leetcode-solutions/tree/master/1463-cherry-pickup-ii) |
@@ -308,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/adeshmishir/leetcode-solutions/tree/master/0763-partition-labels) |
 | [0856-score-of-parentheses](https://github.com/adeshmishir/leetcode-solutions/tree/master/0856-score-of-parentheses) |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/adeshmishir/leetcode-solutions/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
+| [1048-longest-string-chain](https://github.com/adeshmishir/leetcode-solutions/tree/master/1048-longest-string-chain) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/adeshmishir/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1202-smallest-string-with-swaps](https://github.com/adeshmishir/leetcode-solutions/tree/master/1202-smallest-string-with-swaps) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/adeshmishir/leetcode-solutions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
