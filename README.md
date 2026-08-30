@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/adeshmishir/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2008-maximum-earnings-from-taxi](https://github.com/adeshmishir/leetcode-solutions/tree/master/2008-maximum-earnings-from-taxi) |
 | [2029-stone-game-ix](https://github.com/adeshmishir/leetcode-solutions/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/adeshmishir/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/adeshmishir/leetcode-solutions/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/adeshmishir/leetcode-solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/adeshmishir/leetcode-solutions/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/adeshmishir/leetcode-solutions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/adeshmishir/leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/adeshmishir/leetcode-solutions/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/adeshmishir/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/adeshmishir/leetcode-solutions/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
 | [2285-maximum-total-importance-of-roads](https://github.com/adeshmishir/leetcode-solutions/tree/master/2285-maximum-total-importance-of-roads) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/adeshmishir/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
