@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3676-count-bowl-subarrays](https://github.com/adeshmishir/leetcode-solutions/tree/master/3676-count-bowl-subarrays) |
 | [3840-house-robber-v](https://github.com/adeshmishir/leetcode-solutions/tree/master/3840-house-robber-v) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/adeshmishir/leetcode-solutions/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3904-smallest-stable-index-ii](https://github.com/adeshmishir/leetcode-solutions/tree/master/3904-smallest-stable-index-ii) |
 | [3951-minimum-energy-to-maintain-brightness](https://github.com/adeshmishir/leetcode-solutions/tree/master/3951-minimum-energy-to-maintain-brightness) |
 | [3952-maximum-total-value-of-covered-indices](https://github.com/adeshmishir/leetcode-solutions/tree/master/3952-maximum-total-value-of-covered-indices) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/adeshmishir/leetcode-solutions/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/adeshmishir/leetcode-solutions/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/adeshmishir/leetcode-solutions/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/adeshmishir/leetcode-solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3904-smallest-stable-index-ii](https://github.com/adeshmishir/leetcode-solutions/tree/master/3904-smallest-stable-index-ii) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/adeshmishir/leetcode-solutions/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Two Pointers
 |  |
