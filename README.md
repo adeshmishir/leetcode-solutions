@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/adeshmishir/leetcode-solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0740-delete-and-earn](https://github.com/adeshmishir/leetcode-solutions/tree/master/0740-delete-and-earn) |
 | [0877-stone-game](https://github.com/adeshmishir/leetcode-solutions/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/adeshmishir/leetcode-solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1014-best-sightseeing-pair](https://github.com/adeshmishir/leetcode-solutions/tree/master/1014-best-sightseeing-pair) |
 | [1048-longest-string-chain](https://github.com/adeshmishir/leetcode-solutions/tree/master/1048-longest-string-chain) |
 | [1140-stone-game-ii](https://github.com/adeshmishir/leetcode-solutions/tree/master/1140-stone-game-ii) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0726-number-of-atoms](https://github.com/adeshmishir/leetcode-solutions/tree/master/0726-number-of-atoms) |
 | [0763-partition-labels](https://github.com/adeshmishir/leetcode-solutions/tree/master/0763-partition-labels) |
 | [0856-score-of-parentheses](https://github.com/adeshmishir/leetcode-solutions/tree/master/0856-score-of-parentheses) |
+| [0940-distinct-subsequences-ii](https://github.com/adeshmishir/leetcode-solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/adeshmishir/leetcode-solutions/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1048-longest-string-chain](https://github.com/adeshmishir/leetcode-solutions/tree/master/1048-longest-string-chain) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/adeshmishir/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
