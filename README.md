@@ -253,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0655-print-binary-tree](https://github.com/adeshmishir/leetcode-solutions/tree/master/0655-print-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/adeshmishir/leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/adeshmishir/leetcode-solutions/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/adeshmishir/leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/adeshmishir/leetcode-solutions/tree/master/0654-maximum-binary-tree) |
 | [0655-print-binary-tree](https://github.com/adeshmishir/leetcode-solutions/tree/master/0655-print-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/adeshmishir/leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/adeshmishir/leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Greedy
 |  |
 | ------- |
@@ -434,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/adeshmishir/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/adeshmishir/leetcode-solutions/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1631-path-with-minimum-effort](https://github.com/adeshmishir/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/adeshmishir/leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/adeshmishir/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3310-remove-methods-from-project](https://github.com/adeshmishir/leetcode-solutions/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
