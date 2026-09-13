@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/adeshmishir/leetcode-solutions/tree/master/0654-maximum-binary-tree) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/adeshmishir/leetcode-solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0740-delete-and-earn](https://github.com/adeshmishir/leetcode-solutions/tree/master/0740-delete-and-earn) |
+| [0835-image-overlap](https://github.com/adeshmishir/leetcode-solutions/tree/master/0835-image-overlap) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/adeshmishir/leetcode-solutions/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0877-stone-game](https://github.com/adeshmishir/leetcode-solutions/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/adeshmishir/leetcode-solutions/tree/master/0881-boats-to-save-people) |
@@ -499,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/adeshmishir/leetcode-solutions/tree/master/0063-unique-paths-ii) |
+| [0835-image-overlap](https://github.com/adeshmishir/leetcode-solutions/tree/master/0835-image-overlap) |
 | [1034-coloring-a-border](https://github.com/adeshmishir/leetcode-solutions/tree/master/1034-coloring-a-border) |
 | [1254-number-of-closed-islands](https://github.com/adeshmishir/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1463-cherry-pickup-ii](https://github.com/adeshmishir/leetcode-solutions/tree/master/1463-cherry-pickup-ii) |
