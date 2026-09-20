@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adeshmishir/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/adeshmishir/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/adeshmishir/leetcode-solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/adeshmishir/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0139-word-break](https://github.com/adeshmishir/leetcode-solutions/tree/master/0139-word-break) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/adeshmishir/leetcode-solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/adeshmishir/leetcode-solutions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/adeshmishir/leetcode-solutions/tree/master/0100-same-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/adeshmishir/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0449-serialize-and-deserialize-bst](https://github.com/adeshmishir/leetcode-solutions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0654-maximum-binary-tree](https://github.com/adeshmishir/leetcode-solutions/tree/master/0654-maximum-binary-tree) |
 | [0655-print-binary-tree](https://github.com/adeshmishir/leetcode-solutions/tree/master/0655-print-binary-tree) |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/adeshmishir/leetcode-solutions/tree/master/0100-same-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/adeshmishir/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0449-serialize-and-deserialize-bst](https://github.com/adeshmishir/leetcode-solutions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0654-maximum-binary-tree](https://github.com/adeshmishir/leetcode-solutions/tree/master/0654-maximum-binary-tree) |
 | [0655-print-binary-tree](https://github.com/adeshmishir/leetcode-solutions/tree/master/0655-print-binary-tree) |
@@ -445,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/adeshmishir/leetcode-solutions/tree/master/0100-same-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/adeshmishir/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0207-course-schedule](https://github.com/adeshmishir/leetcode-solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/adeshmishir/leetcode-solutions/tree/master/0210-course-schedule-ii) |
 | [0449-serialize-and-deserialize-bst](https://github.com/adeshmishir/leetcode-solutions/tree/master/0449-serialize-and-deserialize-bst) |
@@ -686,4 +690,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1401-circle-and-rectangle-overlapping](https://github.com/adeshmishir/leetcode-solutions/tree/master/1401-circle-and-rectangle-overlapping) |
+## DP on Trees
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/adeshmishir/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 <!---LeetCode Topics End-->
