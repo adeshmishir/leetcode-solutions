@@ -23,6 +23,6 @@ public:
             }
             i += dir;
         }
-        return "";
+        return res;
     } 
 };
