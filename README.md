@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3592-inverse-coin-change](https://github.com/adeshmishir/leetcode-solutions/tree/master/3592-inverse-coin-change) |
 | [3620-network-recovery-pathways](https://github.com/adeshmishir/leetcode-solutions/tree/master/3620-network-recovery-pathways) |
 | [3638-maximum-balanced-shipments](https://github.com/adeshmishir/leetcode-solutions/tree/master/3638-maximum-balanced-shipments) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/adeshmishir/leetcode-solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3676-count-bowl-subarrays](https://github.com/adeshmishir/leetcode-solutions/tree/master/3676-count-bowl-subarrays) |
 | [3840-house-robber-v](https://github.com/adeshmishir/leetcode-solutions/tree/master/3840-house-robber-v) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/adeshmishir/leetcode-solutions/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -612,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/adeshmishir/leetcode-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/adeshmishir/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/adeshmishir/leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/adeshmishir/leetcode-solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/adeshmishir/leetcode-solutions/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Memoization
 |  |
