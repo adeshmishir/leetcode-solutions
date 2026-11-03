@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3525-find-x-value-of-array-ii](https://github.com/adeshmishir/leetcode-solutions/tree/master/3525-find-x-value-of-array-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/adeshmishir/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/adeshmishir/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/adeshmishir/leetcode-solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/adeshmishir/leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/adeshmishir/leetcode-solutions/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3592-inverse-coin-change](https://github.com/adeshmishir/leetcode-solutions/tree/master/3592-inverse-coin-change) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3121-count-the-number-of-special-characters-ii](https://github.com/adeshmishir/leetcode-solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/adeshmishir/leetcode-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/adeshmishir/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/adeshmishir/leetcode-solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/adeshmishir/leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/adeshmishir/leetcode-solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/adeshmishir/leetcode-solutions/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/adeshmishir/leetcode-solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/adeshmishir/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/adeshmishir/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/adeshmishir/leetcode-solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3951-minimum-energy-to-maintain-brightness](https://github.com/adeshmishir/leetcode-solutions/tree/master/3951-minimum-energy-to-maintain-brightness) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/adeshmishir/leetcode-solutions/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Dynamic Programming
