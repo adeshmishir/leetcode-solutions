@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2369-check-if-there-is-a-valid-partition-for-the-array](https://github.com/adeshmishir/leetcode-solutions/tree/master/2369-check-if-there-is-a-valid-partition-for-the-array) |
 | [2392-build-a-matrix-with-conditions](https://github.com/adeshmishir/leetcode-solutions/tree/master/2392-build-a-matrix-with-conditions) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/adeshmishir/leetcode-solutions/tree/master/2588-count-the-number-of-beautiful-subarrays) |
+| [2747-count-zero-request-servers](https://github.com/adeshmishir/leetcode-solutions/tree/master/2747-count-zero-request-servers) |
 | [2944-minimum-number-of-coins-for-fruits](https://github.com/adeshmishir/leetcode-solutions/tree/master/2944-minimum-number-of-coins-for-fruits) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/adeshmishir/leetcode-solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/adeshmishir/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/adeshmishir/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2008-maximum-earnings-from-taxi](https://github.com/adeshmishir/leetcode-solutions/tree/master/2008-maximum-earnings-from-taxi) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/adeshmishir/leetcode-solutions/tree/master/2588-count-the-number-of-beautiful-subarrays) |
+| [2747-count-zero-request-servers](https://github.com/adeshmishir/leetcode-solutions/tree/master/2747-count-zero-request-servers) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/adeshmishir/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/adeshmishir/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/adeshmishir/leetcode-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2008-maximum-earnings-from-taxi](https://github.com/adeshmishir/leetcode-solutions/tree/master/2008-maximum-earnings-from-taxi) |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/adeshmishir/leetcode-solutions/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
 | [2285-maximum-total-importance-of-roads](https://github.com/adeshmishir/leetcode-solutions/tree/master/2285-maximum-total-importance-of-roads) |
+| [2747-count-zero-request-servers](https://github.com/adeshmishir/leetcode-solutions/tree/master/2747-count-zero-request-servers) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/adeshmishir/leetcode-solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/adeshmishir/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/adeshmishir/leetcode-solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -434,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/adeshmishir/leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/adeshmishir/leetcode-solutions/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/adeshmishir/leetcode-solutions/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
+| [2747-count-zero-request-servers](https://github.com/adeshmishir/leetcode-solutions/tree/master/2747-count-zero-request-servers) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/adeshmishir/leetcode-solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/adeshmishir/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/adeshmishir/leetcode-solutions/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
